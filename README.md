@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+### Name: Bhuvanesh S R
+### Reg No: 212223240017
 ## AIM:
  To write a python program for implementation of sliding window protocol
 ## ALGORITHM:
